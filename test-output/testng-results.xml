@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-01T12:32:56 IST" name="Default suite" finished-at="2022-10-01T12:33:59 IST" duration-ms="62836">
+    <groups>
+    </groups>
+    <test started-at="2022-10-01T12:32:56 IST" name="Default test" finished-at="2022-10-01T12:33:59 IST" duration-ms="62836">
+      <class name="com.qa.bridgelabz.Assertion.AssertNotNull">
+        <test-method signature="AssertNull_Method()[pri:1, instance:com.qa.bridgelabz.Assertion.AssertNotNull@3f197a46]" started-at="2022-10-01T12:32:56 IST" name="AssertNull_Method" finished-at="2022-10-01T12:33:58 IST" duration-ms="62531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssertNull_Method -->
+      </class> <!-- com.qa.bridgelabz.Assertion.AssertNotNull -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
